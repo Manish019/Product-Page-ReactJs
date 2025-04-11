@@ -5,12 +5,11 @@ Product Page Using ReactJS — Project Description
 The Product Page is a responsive and dynamic web component built using ReactJS. It showcases detailed information about a product, including its image, title, price, description, reviews, and an option to add the product to a cart.
 
 ✅ Key Features:
-
-# Reusable Components: Built with modular React components like ProductCard, ProductDetails, Rating, and AddToCartButton.
-# Props & State: Uses props to pass product data and React state to manage user interactions (e.g., quantity, button actions).
-# Responsive Design: Styled using CSS/Bootstrap/Tailwind for mobile-first responsiveness.
-# Event Handling: Handles user actions like "Add to Cart" or "Buy Now" using onClick events.
-# Dynamic Rendering: Displays different product data based on passed props or fetched API data.
+ Reusable Components: Built with modular React components like ProductCard, ProductDetails, Rating, and AddToCartButton.
+ Props & State: Uses props to pass product data and React state to manage user interactions (e.g., quantity, button actions).
+ Responsive Design: Styled using CSS/Bootstrap/Tailwind for mobile-first responsiveness.
+ Event Handling: Handles user actions like "Add to Cart" or "Buy Now" using onClick events.
+ Dynamic Rendering: Displays different product data based on passed props or fetched API data.
 
 # Tech Stack:
 ReactJS (Functional components + Hooks)
